@@ -1,0 +1,13 @@
+{
+    "version": "1.0.0",
+    "application_id": "fb13a37d-575c-40df-a14b-a9428cf660b4", 
+    "applications_root": "/applications_root",
+    "entry_point": "/",
+    "proxy_server": {
+        "host": "localhost",
+        "port": 5000
+    },
+    "remote_server": {
+        "uri": "https://applantus-w.azurewebsites.net"
+    }
+}
